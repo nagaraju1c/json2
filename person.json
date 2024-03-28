@@ -1,0 +1,26 @@
+{
+    "products": [
+        {
+          "id": "1",
+          "name": "real me",
+          "pric": 20000
+        },
+        {
+          "id": "2",
+          "name": "red me",
+          "pric": 20000
+        },
+        {
+          "id": "ffba",
+          "mail": "challanagaraju2002@gmail.com",
+          "password": "9391qws"
+        },
+        {
+          "id": "",
+          "mail": "challanagaraju2002@gmail.com",
+          "password": "asdxc"
+        }
+
+    ]
+
+}
